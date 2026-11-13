@@ -40,6 +40,6 @@ EJERCICIOS-FASE1-APE4/
 | 4 | `Ejercicio4.java` | Ejercicio 4 de la Fase 1 |
 | 5 | `Ejercicio5.java` | Ejercicio 5 de la Fase 1 |
 
-> ✏️ Puedes reemplazar la columna *Descripción* por el enunciado o el tema de cada ejercicio.
+> 
 
 ---
